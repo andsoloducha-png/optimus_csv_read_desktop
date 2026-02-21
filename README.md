@@ -264,10 +264,6 @@ text = '#1a1a1a'          # Primary text
 text_secondary = '#666666' # Secondary text
 ```
 
-## License
-
-Internal use only. Not for distribution.
-
 ## Version History
 
 ### v3.0 (Current)
